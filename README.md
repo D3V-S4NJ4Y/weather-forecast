@@ -77,7 +77,3 @@ weather-forecast/
 This application uses the OpenWeatherMap API:
 - Current Weather: `api.openweathermap.org/data/2.5/weather`
 - 5-Day Forecast: `api.openweathermap.org/data/2.5/forecast`
-
-## License
-
-This project is open source and available for personal and educational use.
