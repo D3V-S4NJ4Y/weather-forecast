@@ -19,27 +19,12 @@ A Flask-based web application that displays current weather and 5-day forecast f
 
 1. Clone the repository or download the project files
 
-2. Create a virtual environment:
-```bash
-python -m venv venv
-```
-
-3. Activate the virtual environment:
-   - Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
-   - macOS/Linux:
-     ```bash
-     source venv/bin/activate
-     ```
-
-4. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Set up environment variables:
+3. Set up environment variables:
    - Copy `.env.example` to `.env`
    - Add your OpenWeatherMap API key to the `.env` file:
      ```
